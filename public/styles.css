@@ -30,6 +30,10 @@ header {
   min-width: 450px;
 }
 
+.title {
+  text-align: center;
+}
+
 .logo {
   max-width: 50%;
   image-rendering: -moz-crisp-edges;
