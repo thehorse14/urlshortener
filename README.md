@@ -5,7 +5,7 @@
 ## HOW TO RUN
 1. Run `npm install`
 2. Create a .env file and add in `MONGODB_URI = YourDBURI` with your mongoDB connection string.
-3. Run `npm dev` for local testing and debug
+3. Run `npm run dev` for local testing and debug
 
 
 
