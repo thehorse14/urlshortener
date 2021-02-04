@@ -115,3 +115,9 @@ header {
 .created a {
   color: inherit;
 }
+
+@media only screen and (max-width: 600px) {
+  #app {
+    min-width: 200px;
+  }
+}
